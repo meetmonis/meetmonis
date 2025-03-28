@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPOSITORY]/main/name.svg" alt="Monis Data Analyst" />
+  <img src="https://raw.githubusercontent.com/meetmonis/meetmonis/main/monis.svg" alt="Monis" />
 </h1>
 
 ## Hey! 👋

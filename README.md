@@ -1,38 +1,26 @@
-<h1 align="center">
+<h5 align="center">
   <img src="https://raw.githubusercontent.com/meetmonis/meetmonis/main/monis.svg" alt="Monis" />
-</h1>
+</h5>
 
-## Hey! 👋
-I'm Monis, a passionate data analyst specializing in transforming raw data into actionable insights.
 
-- 🔍 Expert in converting complex datasets into clear business strategies
-- 📈 Built 50+ interactive dashboards driving data-driven decisions
-- 🏆 Recognized for translating technical findings into executive-level insights
-- 🚀 Continuously exploring new data tools and techniques
+### Hey! 👋
+**Data Analyst & Visualizer** | *Data → Strategy → Wins*
 
-## Core Skills
+As a data analyst, I specialize in transforming raw data into meaningful insights that drive business growth. My journey started as a curious learner eager to uncover how data shapes decisions, and today I’m helping businesses make those decisions confidently.
+
+#### What I Do  
+✓ **Expert Data Analysis:** I turn raw data into clear, actionable business insights.  
+✓ **Interactive Dashboards:** Built over 4+ dashboards that drive data-driven decisions and enhance organizational performance.  
+✓ **Executive Insights:** Recognized for bridging the gap between complex data and executive-level decisions.  
+
+#### Why It Matters  
+> *"In the age of information overload, I help businesses focus on signals over noise - converting data points into profit drivers."*
+
+#### Core Skills
 - 📊 **BI Tools**: Power BI, Tableau, Fabric
 - 🛠️ **Data Tools**: SQL, Python, DAX, Excel
-- 📚 **Database**: MySQL, BigQuery, PostgreSQL
-- 📉 **Analysis**: Predictive Modeling, Trend Analysis, Data Visualization
-- 🔧 **ETL**: Data Cleaning, Process Automation, Pipeline Optimization
+- 📚 **Database**: MySQL, SQL Server 
+- 📉 **Analysis**: Problem Solving, Trend Analysis, Data Visualization 
 
-## Value Proposition
-- **Dashboard Development**: Create intuitive visualizations for stakeholders
-- **Insight Generation**: Uncover hidden patterns and growth opportunities
-- **Strategic Consulting**: Bridge the gap between data and business strategy
-- **Process Optimization**: Streamline data workflows for efficiency
 
-## Featured Projects
-- 💼 Customer Behavior Analysis Dashboard (Power BI)
-- 📈 Sales Performance Optimization System (Tableau + SQL)
-- 🔮 Predictive Maintenance Model (Python + Scikit-learn)
-- 🌐 Market Trend Analysis Framework (Python + BigQuery)
-
-## Let's Connect
-- [Portfolio](https://[YOUR_PORTFOLIO_URL])
-- [LinkedIn](https://linkedin.com/in/[YOUR_PROFILE])
-- [GitHub](https://github.com/[YOUR_USERNAME])
-- ✉️ [Email](mailto:[YOUR_EMAIL])
-
-[![Data Analyst Badge](https://img.shields.io/badge/-Data%20Analyst-2EC4B6?style=flat&logo=powerbi&logoColor=white)](https://github.com/[YOUR_USERNAME])
+[![Data Analyst Badge](https://img.shields.io/badge/-Data%20Analyst-2EC4B6?style=flat&logo=powerbi&logoColor=white)](https://github.com/meetmonis)

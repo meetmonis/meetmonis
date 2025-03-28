@@ -4,9 +4,8 @@
 
 
 ### Hey! 👋
-**Data Analyst & Visualizer** | *Data → Strategy → Wins*
+>  As a data analyst, I specialize in transforming raw data into meaningful insights that drive business growth. My journey started as a curious learner eager to uncover how data shapes decisions, and today I’m helping businesses make those decisions confidently.
 
-As a data analyst, I specialize in transforming raw data into meaningful insights that drive business growth. My journey started as a curious learner eager to uncover how data shapes decisions, and today I’m helping businesses make those decisions confidently.
 
 #### What I Do  
 ✓ **Expert Data Analysis:** I turn raw data into clear, actionable business insights.  

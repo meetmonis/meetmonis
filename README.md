@@ -1,6 +1,6 @@
-<h5 align="center">
-  <img src="https://raw.githubusercontent.com/meetmonis/meetmonis/main/monis.svg" alt="Monis" />
-</h5>
+<h6 align="center">
+  <img src="https://raw.githubusercontent.com/meetmonis/meetmonis/main/monis.svg" alt="Monis" width="600" />
+</h6>
 
 
 ### Hey! 👋

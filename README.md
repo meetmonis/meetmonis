@@ -16,7 +16,7 @@
 > *"In the age of information overload, I help businesses focus on signals over noise - converting data points into profit drivers."*
 
 #### Core Skills
-- 📊 **BI Tools**: Power BI, Tableau, Fabric
+- 📊 **BI Tools**: Power BI, Tableau, Microsoft Fabric, Looker Studio
 - 🛠️ **Data Tools**: SQL, Python, DAX, Excel
 - 📚 **Database**: MySQL, SQL Server 
 - 📉 **Analysis**: Problem Solving, Trend Analysis, Data Visualization 

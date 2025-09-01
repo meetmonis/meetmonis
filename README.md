@@ -4,22 +4,26 @@
 
 
 ### Hey! 👋
->  As a data analyst, I specialize in transforming raw data into meaningful insights that drive business growth. My journey started as a curious learner eager to uncover how data shapes decisions, and today I’m helping businesses make those decisions confidently.
+>  Data Science & Analytics professional** skilled in **Python, SQL, Power BI, Tableau, Looker Studio, Excel**.  
+I specialize in **business analytics** and **predictive modeling**, building dashboards, ML models, and BI solutions that drive real-world impact.
 
 
 #### What I Do  
-✓ **Expert Data Analysis:** I turn raw data into clear, actionable business insights.  
-✓ **Interactive Dashboards:** Built over 4+ dashboards that drive data-driven decisions and enhance organizational performance.  
-✓ **Executive Insights:** Recognized for bridging the gap between complex data and executive-level decisions.  
+✔ **Analytics:** BI dashboards, SQL pipelines, KPI analysis, Excel automation  
+✔ **Data Science:** Machine Learning, NLP, Generative AI, predictive modeling  
+✔ **Visualization:** Power BI, Tableau, Looker Studio, MicroStrategy  
+✔ **End-to-End Solutions:** From raw data → clean insights → strategy
 
 #### Why It Matters  
 > *"In the age of information overload, I help businesses focus on signals over noise - converting data points into profit drivers."*
 
 #### Core Skills
-- 📊 **BI Tools**: Power BI, Tableau, Microsoft Fabric, Looker Studio
-- 🛠️ **Data Tools**: SQL, Python, DAX, Excel
-- 📚 **Database**: MySQL, SQL Server 
-- 📉 **Analysis**: Problem Solving, Trend Analysis, Data Visualization 
+**Languages & Tools:**  
+- **Programming:** Python, SQL, DAX  
+- **BI & Visualization:** Power BI, Tableau, Looker Studio, MicroStrategy  
+- **ML & AI:** Scikit-learn, TensorFlow, NLP, Generative AI  
+- **Databases:** MySQL, SQL Server  
+- **Others:** Excel (Advanced), AWS (Beginner)   
 
 
-[![Data Analyst Badge](https://img.shields.io/badge/-Data%20Analyst-2EC4B6?style=flat&logo=powerbi&logoColor=white)](https://github.com/meetmonis)
+[![Data Science & Analytics Badge](https://img.shields.io/badge/-Data%20Analyst-2EC4B6?style=flat&logo=powerbi&logoColor=white)](https://github.com/meetmonis)

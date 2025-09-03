@@ -4,7 +4,7 @@
 
 
 ### Hey! 👋
->  Data Science &Analytics professional skilled in **Python, SQL, Power BI, Tableau, Looker Studio, Excel, Aws**.  
+>  Data Science & Analytics professional skilled in **Python, SQL, Power BI, Tableau, Looker Studio, Excel, Aws**.  
 I specialize in **business analytics** and **predictive modeling**, building dashboards, ML models, and BI solutions that drive real-world impact.
 
 

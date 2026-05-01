@@ -5,7 +5,7 @@
 
 ### Hey! 👋
 >  Business Intelligence Developer skilled in **Python, SQL, Power BI, Tableau,
-Looker Studio, Excel, AWS**.
+Data Studio, Excel, AWS**.
 > I specialize in **business analytics**, **AI**, and **predictive modeling**, building dashboards, ML models, and BI solutions that drive real-world impact.
 
 

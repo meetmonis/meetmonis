@@ -21,7 +21,7 @@ Data Studio, Excel, AWS**.
 #### Core Skills
 **Languages & Tools:**  
 - **Programming:** Python, SQL, DAX  
-- **BI & Visualization:** Power BI, Tableau, Looker Studio, Strategy(MicroStrategy)  
+- **BI & Visualization:** Power BI, Tableau, Data Studio, Strategy(MicroStrategy)  
 - **Databases:** MySQL, SQL Server  
 - **Others:** Excel (Advanced), AWS   
 
